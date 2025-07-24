@@ -303,6 +303,10 @@ footer {
     #body > .content > .centered > h1 {
         font-size: 60px;
     }
+
+    nav > img {
+        margin-left: 0;
+    }
     
     .menu-toggle {
         display: flex;
